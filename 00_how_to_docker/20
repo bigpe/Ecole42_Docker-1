@@ -1,0 +1,3 @@
+#20. Create a local swarm, the Char virtual machine should be its manager.
+
+docker-machine ssh Char docker swarm init --advertise-addr `docker-machine ip Char`

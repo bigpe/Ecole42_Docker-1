@@ -1,0 +1,3 @@
+#5. Launch the hello-world container, and make sure that it prints its welcome message, then leaves it.
+
+docker run hello-world
